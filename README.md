@@ -1,9 +1,19 @@
-## Web-Flip-Card
-Web yang hanya menggunakan HTML dan CSS
+# Web-Flip-Card
+**TOOLS:**
+* HTML
+* CSS
 
-## [Support / Need Help](https://discord.gg/qnsRSa6p3m)
-https://discord.gg/qnsRSa6p3m
+**Jika ada pertanyaan atau butuh bantuan, silahkan join server discord**
+## [Support / Need Help](https://discord.com/invite/2x39Q2vZpb) 
+https://discord.com/invite/2x39Q2vZpb \
+https://dsc.gg/santino
 
-https://saweria.co/RumahKedua
+# Web-Flip-Card
+**TOOLS:**
+* HTML
+* CSS
 
-https://top.gg/servers/773365807417524249/
+**If you have any questions or need help, please join the discord server**
+## [Support / Need Help](https://discord.com/invite/2x39Q2vZpb) 
+https://discord.com/invite/2x39Q2vZpb \
+https://dsc.gg/santino
