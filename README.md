@@ -1,15 +1,16 @@
-# DESAIN-FLIP-CARD
+# Flip Card 
 
-## Butuh Bantuan? Ingin Bertanya?
-Jika mengalami kesulitan atau memiliki pertanyaan. Bergabunglah dengan server Discord saya untuk mendapatkan bantuan langsung dari komunitas atau saya.
-🔗 [Join Server Discord](https://discord.gg/2x39Q2vZpb)
+Selamat datang di proyek **Flip Card**! 🎉
 
-## Dukung Saya
-Dukung saya di Saweria dan Trakteer untuk membantu saya terus semangat dalam ngoding hehe.
+## Deskripsi
 
-💖 [Dukung di Saweria](https://saweria.co/dzakysantino)
-❤️ [Dukung di Trakteer](https://trakteer.id/dzakysantino)
+Website Flip Card adalah web konten dengan cara yang menyenangkan dan menarik. Dengan efek flip yang halus, pengguna dapat berinteraksi dengan kartu-kartu yang menampilkan informasi atau gambar, menciptakan pengalaman pengguna yang dinamis.
 
-### Preview
-![image](https://github.com/dzaky-santino/Web-Flip-Card/assets/88192405/8939c8a5-2965-4145-b00b-555a9f6c34fc)
+## Demo
 
+Lihat proyek ini berfungsi dengan baik di [demo-link](https://dzaky-santino.github.io/flip-card/)
+## Cara Menggunakan
+
+1. **Clone repositori**:
+   ```bash
+   git clone https://github.com/dzaky-santino/flip-card.git
